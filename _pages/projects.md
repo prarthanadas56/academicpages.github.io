@@ -19,6 +19,7 @@ more than 2500 participants. Working in collaboration with InfoPost - a startup 
 	*	Track the position of a moving tag by combining highly unreliable and noisy BLE observations streaming from multiple
 locations using several gateways with the help of Advanced LANDMARC with adaptive k-nearest algorithm for
 RFID location system and neural network. Studied the radiation pattern of BLE devices and contour of BLE gateways.<br>
+*	This was done in collaboration with TrackIt organisation.<br>
 <br>
 <br>
 * <b>Web Scraping for News Articles</b> <br>
