@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "CV"
-    url: /my_CV/
+  - title: "Resume"
+    url: /Resume/
 
   - title: "Contact"
     url: /contact/    
