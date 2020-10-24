@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: http://prarthanadas56.github.io/files/CV.pdf
+    url: /my_CV/
 
   - title: "Contact"
     url: /contact/    
