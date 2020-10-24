@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Resume"
-    url: /Resume/
+  - title: "CV"
+    url: https://prarthanadas56.github.io/files/CV.pdf
 
   - title: "Contact"
     url: /contact/    
