@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prarthana Das"
 title_separator          : "-"
 name                     : &name "Prarthana Das"
-description              : &description "personal description"
+description              : &description "Third Year Undergradute at IIT Kanpur"
 url                      : https://prarthanadas56.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/prarthanadas56.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Prarthana Das"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Kanpur, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
