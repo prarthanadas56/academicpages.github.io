@@ -4,7 +4,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: {{% staticref "/180536_2.pdf" %}}   
+    url: /180536_2.pdf 
 
   - title: "Contact"
     url: /contact/    
