@@ -10,5 +10,3 @@ redirect_from:
 Hi!
 I am a third year undergraduate in the Electrical Engineering department at IIT Kanpur.
 
-Editing the website!!!!!!
-======
