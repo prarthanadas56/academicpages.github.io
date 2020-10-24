@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 <br>
-* <b>Satyanweshi, the truth-seeking chatbot</b> (<a href="https://www.satyanweshi.net/">https://www.satyanweshi.net/) <br> 
+* <b>Satyanweshi, the truth-seeking chatbot</b> (<a https://www.satyanweshi.net/ ="url">satyanweshi.net</a>) <br> 
 <i>Mentor: Prof. Swaprava Nath, Prof. Hamim Zafar, Dept. of Computer Science and Engineering, IIT Kanpur</i><br>
 	*	The chatbot checks fake information spread over the web using NLP. Apart from fact-checking, it also provides general
 information regarding COVID-19 from prominent knowledge sources like WHO, CDC and National Health websites. The
