@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!
-I am a third year undergraduate in the Electrical Engineering department at IIT Kanpur.
+Hi!<br>
+I am a third year undergraduate in the department of Electrical Engineering at IIT Kanpur.
 
